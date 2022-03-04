@@ -8,7 +8,7 @@
  She/her/hers
 
 ### 🍄 Skills
-- **Languages**: C, C#, Python
+- **Languages**: C, C#, Python, Java
 - **DevOps**: Linux OS, Docker, Git
 - **AR/VR**: Unity 3D Design & Development
 
