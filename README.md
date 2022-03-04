@@ -10,6 +10,7 @@
 ### 🍄 Skills
 - **Languages**: C, C#, Python, Java
 - **DevOps**: Linux OS, Docker, Git
+- **Hardware**: Microcontroller, FPGA, Verilog
 - **AR/VR**: Unity 3D Design & Development
 
 ### 🌏 Work Experience
@@ -20,6 +21,27 @@
 | Undergraduate Teaching Assistant  | UBC Department of Computer Science  | Vancouver, BC | Sep 2020 - Present |
 | Embedded Systems Developer Intern  | Altium Ltd. (Gumstix Research Canada)  | Vancouver, BC | Jan 2021 - Sep 2021 |
 | Software Quality Assurance Intern  | Samsung S-1 Corp.  | Seoul, South Korea | May 2020 - Aug 2020 |
+
+### 🍰 My Projects
+- **Embedded Systems Development**
+  -  [Docker Builder](https://github.com/kimd98/Docker-Builder) - Linux kernel, Device tree compiler, Docker, Bash, Raspberry Pi CM4, Jetson Nano/TX2/Xavier
+  -  [Intelligent Olfactory Sensor](https://github.com/kimd98/Intelligent-Olfactory-Sensor) - Deep learning (Pandas, Scikit-learn), Python, Raspberry Pi CM4, SGP40
+  -  [Robot Dog](https://github.com/kimd98/RobotDog) - Python, Reflective optical sensors, DC motors, Raspberry Pi, ItsyBitsy, Servo motors, LCD
+  -  [Dancing BiPed](https://github.com/kimd98/DancingBiPed) - ItsyBitsy, Python, Servo motors, Ultrasonic sensor, LCD
+  -  [Simple RISC](https://github.com/kimd98/Simple-RISC) - Terasic DE1-SoC FPGA, Verilog
+
+- **Mobile/Web Applications**
+  - [Foodbank UNICHEF](https://github.com/kimd98/Foodbank-UNICHEF) - Android Studio, Java, Firebase, Google Cloud & API
+  - [Alacrity](https://github.com/kimd98/Alacrity) - Apache, Flask, React, Python, Optimization algorithms
+  - [Boba Buddy](https://github.com/kimd98/Boba-Buddy) - Flutter, Dart, Quiz implementation 
+
+- **AR/VR Development with Unity**
+  - Under construction ⏳
+
+- **Others**
+  - The impact of Genetic and Clinical Information on the Prognosis of Kidney Renal Clear Cell Carcinoma - R, Data mining and machine learning in bioinformatics
+  - [Googleform Scammer](https://github.com/kimd98/Googleform-Scammer) - C#, Name/barcode generator
+  - [Brain Computer Interface](https://github.com/kimd98/Brain-Computer-Interface) 
 
 ### 📚 Education
 | Degree  | Specialization  | School | Location | Period |
