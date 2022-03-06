@@ -4,9 +4,6 @@
 - 🌻 **Field of interests**: Embedded Software Engineering & AR/VR Development
 - 💗 **My personal portfolio**: https://www.lenakim.me
 
-### ⭐️ Pronouns
- She/her/hers
-
 ### 🍄 Skills
 - **Languages**: C, C#, Python, Java
 - **DevOps**: Linux OS, Docker, Git
@@ -31,6 +28,7 @@
   -  [Simple RISC](https://github.com/kimd98/Simple-RISC) - Terasic DE1-SoC FPGA, Verilog
 
 - **Mobile/Web Applications**
+  - Renew - Node.js, Firebase, React Native, Android Studio, Redux, Google Maps API
   - [Foodbank UNICHEF](https://github.com/kimd98/Foodbank-UNICHEF) - Android Studio, Java, Firebase, Google Cloud & API
   - [Alacrity](https://github.com/kimd98/Alacrity) - Apache, Flask, React, Python, Optimization algorithms
   - [Boba Buddy](https://github.com/kimd98/Boba-Buddy) - Flutter, Dart, Quiz implementation 
