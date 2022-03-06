@@ -37,7 +37,7 @@
   - Under construction ⏳
 
 - **Others**
-  - The impact of Genetic and Clinical Information on the Prognosis of Kidney Renal Clear Cell Carcinoma - R, Data mining and machine learning in bioinformatics
+  - Machine Learning Application in Kidney Cancer Prognosis - R, Data mining, Machine learning
   - [Googleform Scammer](https://github.com/kimd98/Googleform-Scammer) - C#, Name/barcode generator
   - [Brain Computer Interface](https://github.com/kimd98/Brain-Computer-Interface) 
 
