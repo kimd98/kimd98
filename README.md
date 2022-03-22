@@ -14,6 +14,7 @@
 
 | Job Position  | Company | Location | Work Period |
 | ------------- | ------------- | ------------- | ------------- |
+| (Incoming) Firmware Engineer Intern  | Generac Holdings Inc.  | Vancouver, BC | May 2022 - Sep 2022 |
 | Undergraduate Teaching Assistant  | UBC Department of Computer Science  | Vancouver, BC | Sep 2020 - Present |
 | Embedded Systems Developer Intern  | Altium Ltd. (Gumstix Research Canada)  | Vancouver, BC | Jan 2021 - Sep 2021 |
 | Software Quality Assurance Intern  | Samsung S-1 Corp.  | Seoul, South Korea | May 2020 - Aug 2020 |
