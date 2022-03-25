@@ -34,7 +34,7 @@
   - [Boba Buddy](https://github.com/kimd98/Boba-Buddy) - Flutter, Dart, Quiz implementation 
 
 - **AR/VR Development with Unity**
-  - Under construction ⏳
+  - [AR with Unity](https://github.com/kimd98/ARprojects)
 
 - **Others**
   - Machine Learning Applications in Kidney Cancer Prognosis - R, Data mining, Machine learning
