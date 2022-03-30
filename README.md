@@ -25,7 +25,7 @@
   - [Boba Buddy](https://github.com/kimd98/Boba-Buddy) - Flutter, Dart, Quiz implementation 
 
 - **AR/VR Development with Unity**
-  - [AR with Unity](https://github.com/kimd98/ARprojects)
+  - [AR with Unity](https://github.com/kimd98/ARprojects) - Under construction
 
 ### 🌏 Work Experience
 
