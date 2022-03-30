@@ -10,15 +10,6 @@
 - **Hardware**: Microcontroller, FPGA, Verilog
 - **AR/VR**: Unity 3D Design & Development
 
-### 🌏 Work Experience
-
-| Job Position  | Company | Location | Work Period |
-| ------------- | ------------- | ------------- | ------------- |
-| (Incoming) Firmware Engineer Intern  | Generac Holdings Inc.  | Vancouver, BC | May 2022 - Sep 2022 |
-| Undergraduate Teaching Assistant  | UBC Department of Computer Science  | Vancouver, BC | Sep 2020 - May 2022 |
-| Embedded Systems Developer Intern  | Altium Ltd. (Gumstix Research Canada)  | Vancouver, BC | Jan 2021 - Sep 2021 |
-| Software Quality Assurance Intern  | Samsung S-1 Corp.  | Seoul, South Korea | May 2020 - Aug 2020 |
-
 ### 🍰 My Projects
 - **Embedded Systems Development**
   -  [Docker Builder](https://github.com/kimd98/Docker-Builder) - Linux kernel, Device tree compiler, Docker, Bash, Raspberry Pi CM4, Jetson Nano/TX2/Xavier
@@ -36,17 +27,14 @@
 - **AR/VR Development with Unity**
   - [AR with Unity](https://github.com/kimd98/ARprojects)
 
-- **Others**
-  - Machine Learning Applications in Kidney Cancer Prognosis - R, Data mining, Machine learning
-  - [Googleform Scammer](https://github.com/kimd98/Googleform-Scammer) - C#, Name/barcode generator
-  - [Brain Computer Interface](https://github.com/kimd98/Brain-Computer-Interface) 
+### 🌏 Work Experience
 
-### 📚 Education
-| Degree  | Specialization  | School | Location | Period |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Bachelor of Applied Science | Computer Engineering  | The University of British Columbia | Vancouver, BC | Sep 2018 - Present |
-| Associate of Science  | Life Sciences  | San Jacinto College | Houston, TX | Jan 2017 - May 2018 |
-| N/A  | Military Science   | Korea Military Academy | Seoul, South Korea | Jan 2016 - Dec 2016 |
+| Job Position  | Company | Location | Work Period |
+| ------------- | ------------- | ------------- | ------------- |
+| (Incoming) Firmware Engineer Intern  | Generac Holdings Inc.  | Vancouver, BC | May 2022 - Sep 2022 |
+| Undergraduate Teaching Assistant  | UBC Department of Computer Science  | Vancouver, BC | Sep 2020 - May 2022 |
+| Embedded Systems Developer Intern  | Altium Ltd. (Gumstix Research Canada)  | Vancouver, BC | Jan 2021 - Sep 2021 |
+| Software Quality Assurance Intern  | Samsung S-1 Corp.  | Seoul, South Korea | May 2020 - Aug 2020 |
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/lenakim-ubc/)
