@@ -2,7 +2,6 @@
 - 👩🏻‍💻 4th-year Computer Engineering student at UBC (expected to graduate in May of 2023)
 - 🍎 Currently open to summer 2023 new grad opportunities!
 - 🌻 **Field of interests**: Embedded Software Engineering & AR/VR Development
-- 💗 **My personal portfolio**: https://www.lenakim.me
 
 ### 🍄 Skills
 - **Languages**: C, C#, Python, Java
