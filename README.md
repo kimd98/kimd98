@@ -26,15 +26,6 @@
 - **AR/VR Development with Unity**
   - [AR with Unity](https://github.com/kimd98/ARprojects) - Under construction
 
-### 🌏 Work Experience
-
-| Job Position  | Company | Location | Work Period |
-| ------------- | ------------- | ------------- | ------------- |
-| (Incoming) Firmware Engineer Intern  | Generac Holdings Inc.  | Vancouver, BC | May 2022 - Sep 2022 |
-| Undergraduate Teaching Assistant  | UBC Department of Computer Science  | Vancouver, BC | Sep 2020 - May 2022 |
-| Embedded Systems Developer Intern  | Altium Ltd. (Gumstix Research Canada)  | Vancouver, BC | Jan 2021 - Sep 2021 |
-| Software Quality Assurance Intern  | Samsung S-1 Corp.  | Seoul, South Korea | May 2020 - Aug 2020 |
-
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/lenakim-ubc/)
 - [E-mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lenakim0215@gmail.com)
