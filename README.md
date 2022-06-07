@@ -11,7 +11,8 @@
 
 ### 🍰 My Projects
 - **Embedded Systems Development**
-  -  [Docker Builder](https://github.com/kimd98/Docker-Builder) - Linux kernel, Device tree compiler, Docker, Bash, Raspberry Pi CM4, Jetson Nano/TX2/Xavier
+  -  [Cair2](https://github.com/kimd98/Cair2) - CO2 sensor using I2C bit-banging, fan PWM control with QSYS hardware system design, DE1-SoC camera support via FPGA and HPS connection
+  -  [Docker Builder](https://github.com/kimd98/Docker-Builder) - Linux kernel, Device tree compiler, Docker, Bash, Raspberry Pi Compute Module 4, Jetson Nano/TX2/Xavier
   -  [Intelligent Olfactory Sensor](https://github.com/kimd98/Intelligent-Olfactory-Sensor) - Deep learning (Pandas, Scikit-learn), Python, Raspberry Pi CM4, SGP40
   -  [Robot Dog](https://github.com/kimd98/RobotDog) - Python, Reflective optical sensors, DC motors, Raspberry Pi, ItsyBitsy, Servo motors, LCD
   -  [Dancing BiPed](https://github.com/kimd98/DancingBiPed) - ItsyBitsy, Python, Servo motors, Ultrasonic sensor, LCD
