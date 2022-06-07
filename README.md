@@ -19,13 +19,11 @@
   -  [Simple RISC](https://github.com/kimd98/Simple-RISC) - Terasic DE1-SoC FPGA, Verilog
 
 - **Mobile/Web Applications**
+  - Scavenge.ar - Unity, AR, Game development (in progress)
   - [Renew](https://github.com/kimd98/renew) - Node.js, Firebase, React Native, Android Studio, Redux, Google Maps API
   - [Foodbank UNICHEF](https://github.com/kimd98/Foodbank-UNICHEF) - Android Studio, Java, Firebase, Google Cloud & API
   - [Alacrity](https://github.com/kimd98/Alacrity) - Apache, Flask, React, Python, Optimization algorithms
   - [Boba Buddy](https://github.com/kimd98/Boba-Buddy) - Flutter, Dart, Quiz implementation 
-
-- **AR/VR Development with Unity**
-  - [AR with Unity](https://github.com/kimd98/ARprojects) - Under construction
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/lenakim-ubc/)
