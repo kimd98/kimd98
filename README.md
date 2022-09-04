@@ -1,7 +1,7 @@
 ### Hi, my name is Lena 👋
 - 👩🏻‍💻 4th-year Computer Engineering student @ UBC (expected to graduate in May of 2023)
 - 🍎 Currently open to summer 2023 new grad opportunities!
-- 🌻 **Field of interests**: Embedded Software/Firmware Engineering & AR/VR Development
+- 🌻 **Field of interests**: Firmware & Embedded Software Engineering
 
 ### 🍄 Skills
 - **Languages**: C, C#, Python, Java
@@ -19,7 +19,6 @@
   -  [Simple RISC](https://github.com/kimd98/Simple-RISC) - Terasic DE1-SoC FPGA, Verilog
 
 - **Mobile/Web Applications**
-  - Scavenge.ar - Unity, AR, Game development (in progress)
   - [Renew](https://github.com/kimd98/renew) - Node.js, Firebase, React Native, Android Studio, Redux, Google Maps API
   - [Foodbank UNICHEF](https://github.com/kimd98/Foodbank-UNICHEF) - Android Studio, Java, Firebase, Google Cloud & API
   - [Alacrity](https://github.com/kimd98/Alacrity) - Apache, Flask, React, Python, Optimization algorithms
@@ -28,5 +27,3 @@
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/lenakim-ubc/)
 - [E-mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=lenakim0215@gmail.com)
-- [Facebook](https://www.facebook.com/lenak7788/)
-- [Instagram](https://www.instagram.com/kimx.ll/)
