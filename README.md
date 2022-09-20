@@ -4,10 +4,9 @@
 - 🌻 **Field of interests**: Firmware & Embedded Software Engineering
 
 ### 🍄 Skills
-- **Languages**: C, C#, Python, Java
+- **Languages**: C, C++, Python, Java
 - **DevOps**: Linux OS, Docker, Git
 - **Hardware**: Microcontroller, FPGA, Verilog
-- **AR/VR**: Unity 3D Design & Development
 
 ### 🍰 My Projects
 - **Embedded Systems Development**
