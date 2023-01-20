@@ -1,6 +1,5 @@
 ### Hi, my name is Lena 👋
 - 👩🏻‍💻 5th-year Computer Engineering student @ UBC (expected to graduate in May of 2023)
-- 🍎 Currently open to new grad opportunities!
 - 🌻 **Field of interests**: Firmware & Embedded Software Engineering
 
 ### 🍄 Skills
